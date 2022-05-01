@@ -27,7 +27,7 @@ body {
     color: darkmagenta;
     font-style: bold;
     font-family:'Courier New', Courier, monospace;
-    font-size: 3rem;
+    font-size: 2rem;
 }
 main {
     display: flex;
